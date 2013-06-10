@@ -1,0 +1,9 @@
+e:\samuel\documents\visual studio 2010\Projects\MasterPage\MasterPage\bin\MasterPage.dll
+e:\samuel\documents\visual studio 2010\Projects\MasterPage\MasterPage\bin\MasterPage.pdb
+e:\samuel\documents\visual studio 2010\Projects\MasterPage\MasterPage\obj\Debug\ResolveAssemblyReference.cache
+e:\samuel\documents\visual studio 2010\Projects\MasterPage\MasterPage\obj\Debug\MasterPage.dll
+e:\samuel\documents\visual studio 2010\Projects\MasterPage\MasterPage\obj\Debug\MasterPage.pdb
+D:\Documents\Visual Studio 2010\Projects\MasterPage\MasterPage\bin\MasterPage.dll
+D:\Documents\Visual Studio 2010\Projects\MasterPage\MasterPage\bin\MasterPage.pdb
+D:\Documents\Visual Studio 2010\Projects\MasterPage\MasterPage\obj\Debug\MasterPage.dll
+D:\Documents\Visual Studio 2010\Projects\MasterPage\MasterPage\obj\Debug\MasterPage.pdb
